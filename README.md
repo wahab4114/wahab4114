@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wahab4114
-- 👀 Machine Learning Engineer who likes to do research and coding
+- 👀 Early stage researcher and data scientist
 - 🌱 I’m currently working in NLP
 - 📫 You can reach me via abdulwahab-007@hotmail.com
 
